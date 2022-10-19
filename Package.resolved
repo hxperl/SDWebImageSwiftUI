@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "SDWebImage",
-        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "repositoryURL": "https://github.com/hxperl/SDWebImage.git",
         "state": {
-          "branch": null,
-          "revision": "3e48cb68d8e668d146dc59c73fb98cb628616236",
-          "version": "5.13.2"
+          "branch": "master",
+          "revision": "fdb441df05cdd677bf13b7eed8a4fe9ad142c8ff",
+          "version": null
         }
       }
     ]
